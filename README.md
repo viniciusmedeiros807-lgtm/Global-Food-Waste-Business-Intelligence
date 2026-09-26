@@ -1,4 +1,4 @@
-[# 🌎 Global Food Waste — Business Intelligence
+# 🌎 Global Food Waste — Business Intelligence
 
 Business Intelligence dashboard focused on the analysis of global food waste across countries and regions.
 
