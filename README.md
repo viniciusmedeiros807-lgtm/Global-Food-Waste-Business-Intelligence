@@ -1,4 +1,4 @@
-# 🌎 Global Food Waste — Business Intelligence
+[# 🌎 Global Food Waste — Business Intelligence
 
 Business Intelligence dashboard focused on the analysis of global food waste across countries and regions.
 
@@ -18,8 +18,6 @@ The analysis includes:
 
 The complete dashboard is available below:
 
-**[View Dashboard](Primeiro_Relatório_Gerencial.pdf)**
-
 ## 🛠️ Tools
 
 * Looker Studio
@@ -28,5 +26,5 @@ The complete dashboard is available below:
 
 ## 🎯 Project Objective
 
-To explore and visualize patterns of food waste across different countries and regions through a Business Intelligence dashboard.
+To explore and visualize patterns of food waste across different countries and regions through a Business Intelligence dashboard.](https://www.kaggle.com/datasets/joebeachcapital/food-waste)
 
